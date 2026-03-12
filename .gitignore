@@ -34,3 +34,12 @@ Thumbs.db
 # Project specific
 backend/__pycache__/
 frontend/node_modules/
+
+# Cursor
+.cursor/
+.cursor/mcp.json
+
+# Токены и секреты
+*.token
+*.secret
+secrets/
